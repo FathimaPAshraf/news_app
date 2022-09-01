@@ -1,0 +1,14 @@
+.ToolBar{
+    width: 100%;
+    height: 50px;
+    display: flex ;
+    justify-content: center;
+}
+.ToolBar div{
+    margin: 25px;
+    cursor: pointer;
+}
+.ToolBar div:hover{
+
+    color: rgba(245, 13, 13, 0.584);
+}
